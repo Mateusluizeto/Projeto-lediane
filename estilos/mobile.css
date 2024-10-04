@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#img1, #img2, #img3{
+    margin-left: 50px;
+    max-width: 1000px;
+}
